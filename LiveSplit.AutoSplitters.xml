@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+
+<AutoSplitter>
+	<Games>
+		<Game>Eradicator</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/OCircles/EradicatorAutosplitter/master/EradicatorSplitter.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>IGT, Autosplitting, Autostarting is available. Must have gone in-game once before Autostart works (by O_Circles)</Description>
+</AutoSplitter>
 <AutoSplitter>
 	<Games>
 		<Game>Evergate Demo</Game>
